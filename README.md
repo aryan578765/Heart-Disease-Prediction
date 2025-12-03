@@ -4,7 +4,7 @@ A machine learning-powered web application designed to predict the risk of heart
 
 ## 🌐 Live Demo
 
-*Application will be live here after Streamlit Cloud deployment.*
+Experience the live application here: **[https://heart-disease-prediction-7.streamlit.app/](https://heart-disease-prediction-7.streamlit.app/)**
 
 ## 🛠 Tech Stack
 
